@@ -8,7 +8,7 @@ export const styleSheet = {
         display: 'flex',
         position: 'absolute',
         color:'#0E4380',
-        left: '650px',
+        left: '500px',
         top: '50px'
     },
 }
