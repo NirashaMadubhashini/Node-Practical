@@ -5,6 +5,5 @@ export const styleSheet = {
         top:'50px',
         color:'#0E4380',
         font_weight:'bold'
-
     }
 }
